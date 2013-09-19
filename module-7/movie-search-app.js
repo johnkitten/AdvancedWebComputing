@@ -11,7 +11,6 @@ var inputEl = document.getElementById('search-textbox');
                 alert('Empty Input! Please enter any value!')
             }
 
-
             else{
 
 					    $(function(){
